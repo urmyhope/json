@@ -1,0 +1,15 @@
+[{
+    "nome":"hope",
+    "email":"eusei@gmail.com",
+    "telefone":[
+        "999999999",
+        "976213456"
+    ],
+    "endereco":{
+        "logradouro":"rua dos cravos",
+        "numero": "5",
+        "cep":"81290320",
+        "apartamento":"false",
+        "complemento":"venda da tia zeze"
+    }
+}]
